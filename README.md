@@ -51,8 +51,6 @@ npm run dev
 
 
 ## output
+<img width="1564" height="291" alt="react_7" src="https://github.com/user-attachments/assets/ff2ac4e7-4744-4225-b415-c5fb1fdef0cb" />
 
-<img width="1563" height="609" alt="rest_7 (1)" src="https://github.com/user-attachments/assets/72114e24-1bc8-4320-9805-194701911b3f" />
-<img width="1515" height="905" alt="rest_7 (4)" src="https://github.com/user-attachments/assets/799d9fef-aa6d-457e-afec-bba62996e827" />
-<img width="1084" height="626" alt="rest_7 (3)" src="https://github.com/user-attachments/assets/708219dc-0600-4055-bdd5-39e945ab905e" />
-<img width="1118" height="652" alt="rest_7 (2)" src="https://github.com/user-attachments/assets/32efb421-b4fe-490f-bf85-f13d4c58ec84" />
+
